@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(188, 225, 248);
+    text-align: center;
+}
+span.S{
+    font-size: 70px;
+    color: black;
+}
+h1{
+    color: blue;
+}
+a:hover{
+    color: red;
+    background-color: yellow;
+}
+span{
+    color: red;
+}
+ol{
+    text-align: left;
+}
+img{
+    position: relative;
+    bottom: 400px;
+    left: 800px;
+}
+a:visited.apple{
+ background-color: blue;
+ color: white;
+}
+a:link.apple{
+    background-color: white;
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
