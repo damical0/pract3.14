@@ -13,7 +13,7 @@ a:hover{
     color: red;
     background-color: yellow;
 }
-span{
+p::first-line{
     color: red;
 }
 ol{
